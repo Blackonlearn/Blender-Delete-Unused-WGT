@@ -1,5 +1,7 @@
 import bpy
 
+#This simple code is mine, and it has already been pushed to github as my archive: https://github.com/Blackonlearn/Blender-Delete-Unused-WGT
+
 # Define the name of the widget collection
 widget_collection_name = "Collection_Name"
 
